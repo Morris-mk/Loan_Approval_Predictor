@@ -1,6 +1,6 @@
 # Loan_Approval_&_Disbursement_Prediction
 
-![loan](https://github.com/Morris-mk/Loan_Approval_Predictor/blob/main/images/Instant-Loan-Approval.webp)
+<img src="https://github.com/Morris-mk/Loan_Approval_Predictor/blob/main/images/Instant-Loan-Approval.webp" width="75%">
 
 ## Introduction
 For any financial service provider worldwide, determining loan approvals and disbursements is a critical process. This project aims to objectify this process by developing a predictive model based on fundamental customer data, leading to unbiased decisions.
