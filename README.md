@@ -1,6 +1,6 @@
 # Loan_Approval_&_Disbursement_Prediction
 
-![loan](https://storage.googleapis.com/kaggle-datasets-images/3523739/6144787/fa272f68a260943e5a329ebee8ce0906/dataset-cover.jpg?t=2023-07-18-22-49-24))
+![loan](https://github.com/Morris-mk/Loan_Approval_Predictor/blob/main/images/Instant-Loan-Approval.webp)
 
 ## Introduction
 For any financial service provider worldwide, determining loan approvals and disbursements is a critical process. This project aims to objectify this process by developing a predictive model based on fundamental customer data, leading to unbiased decisions.
